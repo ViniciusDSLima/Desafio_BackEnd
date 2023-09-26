@@ -24,5 +24,5 @@ public class Transferencia {
     private LocalDateTime dataTransferencia;
     private Long valor;
     @Column(name = "nome_operador_transacao")
-    private String nomeOperadorTransacao;
+    private String nomeOperadorTranferencia;
 }
